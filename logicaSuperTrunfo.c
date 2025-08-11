@@ -80,7 +80,7 @@ int main() {
     printf("PIB per Capita: %.2f reais\n", pib_per_capita2);
 
     // Menu interativo
-    printf("\n========== MENU DE COMPARACAO ==========\n");
+    printf("\n========== MENU PRINCIPAL ==========\n");
     printf("1 - Populacao\n");
     printf("2 - Area\n");
     printf("3 - PIB\n");
